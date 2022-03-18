@@ -5,7 +5,7 @@ public class Account {
 	String number;
 	String type;
 	double balance;
-	static String bankName = "Chase";
+	static String bankName = "Capital One";
 
 	
 	//Methods
