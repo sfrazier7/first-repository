@@ -54,6 +54,9 @@ public class Strings {
 		System.out.println(d.hashCode());
 		
 		stringIn.close();
+		String hello = "Hello Git!";
+		System.out.println(hello);
+
 	}
 
 }
