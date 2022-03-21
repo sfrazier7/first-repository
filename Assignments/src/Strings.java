@@ -53,6 +53,7 @@ public class Strings {
 		System.out.println(c.hashCode());
 		System.out.println(d.hashCode());
 		
+		stringIn.close();
 	}
 
 }
